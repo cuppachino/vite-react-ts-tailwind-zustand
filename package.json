@@ -1,5 +1,5 @@
 {
-  "name": "team-podo",
+  "name": "vite-react-ts-tailwind-zustand-boilerplate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,3 +25,4 @@
     "zustand": "^4.0.0"
   }
 }
+
