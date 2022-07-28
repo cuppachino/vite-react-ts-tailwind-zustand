@@ -1,5 +1,4 @@
 import { Welcome } from '@/pages/Welcome';
-import { useState } from 'react';
 
 function App() {
   return (
