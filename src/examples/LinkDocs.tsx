@@ -1,6 +1,7 @@
-import reactLogo from '@/assets/react.svg';
-import tailwindLogo from '@/assets/tailwind.svg';
-import typescriptLogo from '@/assets/typescript.svg';
+import reactLogo from 'public/react.svg';
+import tailwindLogo from 'public/tailwind.svg';
+import typescriptLogo from 'public/typescript.svg';
+import viteLogo from 'public/vite.svg';
 
 export function LinkDocs() {
   return (
@@ -9,7 +10,7 @@ export function LinkDocs() {
                  flex w-full h-full min-h-[64px] max-h-[80px]
                  items-center justify-center '>
       <a className='docs-anchor scale-95' href='https://vitejs.dev' target='blank'>
-        <img src='/vite.svg' className='h-full w-full aspect-square' alt='Vite logo' />
+        <img src={viteLogo} className='h-full w-full aspect-square' alt='Vite logo' />
       </a>
       <a className='docs-anchor ml-5 mr-4' href='https://reactjs.org' target='blank' tabIndex={-1}>
         <img

@@ -1,7 +1,7 @@
 import cc from 'classcat';
 import { useEffect, useState } from 'react';
 
-import zustandBear from '@/assets/zustand.png';
+import zustandBear from 'public/zustand.png';
 import { getBears, useBearStore } from '@/stores/useBearStore';
 
 const labelBears = (bears: number) => (bears === 1 ? 'bear' : 'bears');
