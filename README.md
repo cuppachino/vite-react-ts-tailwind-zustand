@@ -5,6 +5,10 @@
 
 ![alt text](https://github.com/Cuppachino/vite-react-ts-tailwind-zustand/blob/master/sandbox-thumb.png)
 
+## Sandbox Template
+#### preview the project here, or use it to jumpstart your next sandbox!
+https://codesandbox.io/s/vite-react-tailwind-zustand-starter-6j51zp
+
 ## Quick start
 #### Create from template using GitHub CLI
 ```terminal
