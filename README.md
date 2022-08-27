@@ -12,11 +12,11 @@ https://codesandbox.io/s/vite-react-tailwind-zustand-starter-6j51zp
 ## Quick start
 #### Create from template using GitHub CLI
 ```terminal
-gh repo create [repo] -p Cuppachino/vite-react-ts-tailwind
+gh repo create [<name>] -p Cuppachino/vite-react-ts-tailwind
 ```
 #### Or clone locally
 ```terminal
-gh repo clone [repo] Cuppachino/vite-react-ts-tailwind
+gh repo clone Cuppachino/vite-react-ts-tailwind [<directory>]
 ```
 
 #### Install dependencies & start dev server
